@@ -54,7 +54,7 @@
     "base58-native": "*",
     "big-integer": "^1.6.48",
     "bignum": "^0.13.1",
-    "bitcoinjs-lib": "^6.0.2",
+    "bitcoinjs-lib": "^6.1.0",
     "merkle-bitcoin": "^1.0.2",
     "promise": "*",
     "sha3": "*"
